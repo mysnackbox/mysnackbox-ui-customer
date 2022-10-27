@@ -18,7 +18,7 @@
 
 小程序发布前，请先将 https://mysnackbox.mydataharbor.com:10086  添加为微信小程序的 request合法域名
 
-小程序具体发布过程参考 https://www.jianshu.com/p/d2a43434a8e0，或者自行搜索
+小程序具体发布过程参考 https://www.jianshu.com/p/d2a43434a8e0  或者自行搜索
 
 ### 程序截图
 
