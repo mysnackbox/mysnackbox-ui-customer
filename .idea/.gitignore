@@ -1,0 +1,41 @@
+**/target/**
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+/video/
+
+
+logs/
+repoPlugins/
+dbdata/
+unpackage/
+.flattened-pom.xml
+
+plugins
+
+.lck
+
+application.pid
+**/eladmin-system/src/main/resources/static/**
