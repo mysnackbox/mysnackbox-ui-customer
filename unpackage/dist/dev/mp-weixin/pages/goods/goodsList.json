@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "商品库",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-sticky": "/uview-ui/components/u-sticky/u-sticky",
+    "u-search": "/uview-ui/components/u-search/u-search",
+    "uni-list": "/uni_modules/uni-list/components/uni-list/uni-list",
+    "uni-list-item": "/uni_modules/uni-list/components/uni-list-item/uni-list-item",
+    "u-tag": "/uview-ui/components/u-tag/u-tag",
+    "uni-load-more": "/uni_modules/uni-load-more/components/uni-load-more/uni-load-more",
+    "u-action-sheet": "/uview-ui/components/u-action-sheet/u-action-sheet",
+    "u-modal": "/uview-ui/components/u-modal/u-modal",
+    "u-empty": "/uview-ui/components/u-empty/u-empty"
+  }
+}

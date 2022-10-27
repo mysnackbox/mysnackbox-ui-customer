@@ -1,0 +1,76 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.uni-badge--x.data-v-7c66581c {
+  display: inline-block;
+  position: relative;
+}
+.uni-badge--absolute.data-v-7c66581c {
+  position: absolute;
+}
+.uni-badge--small.data-v-7c66581c {
+  -webkit-transform: scale(0.8);
+          transform: scale(0.8);
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+}
+.uni-badge.data-v-7c66581c {
+  display: flex;
+  overflow: hidden;
+  box-sizing: border-box;
+  justify-content: center;
+  flex-direction: row;
+  height: 20px;
+  line-height: 18px;
+  color: #fff;
+  border-radius: 100px;
+  background-color: #909399;
+  background-color: transparent;
+  border: 1px solid #fff;
+  text-align: center;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 12px;
+}
+.uni-badge--info.data-v-7c66581c {
+  color: #fff;
+  background-color: #909399;
+}
+.uni-badge--primary.data-v-7c66581c {
+  background-color: #2979ff;
+}
+.uni-badge--success.data-v-7c66581c {
+  background-color: #4cd964;
+}
+.uni-badge--warning.data-v-7c66581c {
+  background-color: #f0ad4e;
+}
+.uni-badge--error.data-v-7c66581c {
+  background-color: #dd524d;
+}
+.uni-badge--inverted.data-v-7c66581c {
+  padding: 0 5px 0 0;
+  color: #909399;
+}
+.uni-badge--info-inverted.data-v-7c66581c {
+  color: #909399;
+  background-color: transparent;
+}
+.uni-badge--primary-inverted.data-v-7c66581c {
+  color: #2979ff;
+  background-color: transparent;
+}
+.uni-badge--success-inverted.data-v-7c66581c {
+  color: #4cd964;
+  background-color: transparent;
+}
+.uni-badge--warning-inverted.data-v-7c66581c {
+  color: #f0ad4e;
+  background-color: transparent;
+}
+.uni-badge--error-inverted.data-v-7c66581c {
+  color: #dd524d;
+  background-color: transparent;
+}
+

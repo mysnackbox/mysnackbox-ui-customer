@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "设备商品列表",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-sticky": "/uview-ui/components/u-sticky/u-sticky",
+    "uni-section": "/uni_modules/uni-section/components/uni-section/uni-section",
+    "u-tag": "/uview-ui/components/u-tag/u-tag",
+    "uni-notice-bar": "/uni_modules/uni-notice-bar/components/uni-notice-bar/uni-notice-bar",
+    "u-empty": "/uview-ui/components/u-empty/u-empty",
+    "uni-load-more": "/uni_modules/uni-load-more/components/uni-load-more/uni-load-more",
+    "uni-goods-nav": "/uni_modules/uni-goods-nav/components/uni-goods-nav/uni-goods-nav"
+  }
+}
