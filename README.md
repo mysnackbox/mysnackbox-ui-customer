@@ -1,4 +1,4 @@
-![](doc-resource\logo.jpg)
+![](./doc-resource/logo.jpg)
 
 ### 模块介绍
 
@@ -22,9 +22,9 @@
 
 ### 程序截图
 
-| ![](doc-resource\home.jpg) | ![](doc-resource\terminal-goods.jpg) | ![](doc-resource\center.jpg) |
+| ![](./doc-resource/home.jpg) | ![](./doc-resource/terminal-goods.jpg) | ![](./doc-resource/center.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](doc-resource\order.jpg) | ![](doc-resource\order2.jpg) | ![](doc-resource\userinfo.jpg) |
+| ![](./doc-resource/order.jpg) | ![](./doc-resource/order2.jpg) | ![](./doc-resource/userinfo.jpg) |
 
 
 
@@ -70,7 +70,7 @@
 
 ### 套件及配置
 
-![](doc-resource\device.jpg)
+![](./doc-resource/device.jpg)
 
 | 设备名称                | 数量               | 规格            | 备注                       |
 | ----------------------- | ------------------ | --------------- | -------------------------- |
@@ -85,13 +85,13 @@
 
 #### C端用户
 
-![](doc-resource\customer_qrcode.jpg)
+![](./doc-resource/customer_qrcode.jpg)
 
 #### 运营管理小程序
 
 首次登陆会提示没有绑定商户，请联系我们
 
-![](doc-resource\merchant_qrcode.jpg)
+![](./doc-resource/merchant_qrcode.jpg)
 
 
 
